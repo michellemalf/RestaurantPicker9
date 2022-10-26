@@ -1,0 +1,15 @@
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/bin/Debug/net6.0/RestaurantPick
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/bin/Debug/net6.0/RestaurantPick.deps.json
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/bin/Debug/net6.0/RestaurantPick.runtimeconfig.json
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/bin/Debug/net6.0/RestaurantPick.dll
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/bin/Debug/net6.0/RestaurantPick.pdb
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.csproj.AssemblyReference.cache
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.AssemblyInfoInputs.cache
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.AssemblyInfo.cs
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.csproj.CoreCompileInputs.cache
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.dll
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/refint/RestaurantPick.dll
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.pdb
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/RestaurantPick.genruntimeconfig.cache
+/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/Debug/net6.0/ref/RestaurantPick.dll
