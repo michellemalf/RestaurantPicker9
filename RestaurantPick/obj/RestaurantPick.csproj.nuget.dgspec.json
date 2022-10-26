@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/RestaurantPick.csproj": {}
+    "/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerMich/RestaurantPicker9/RestaurantPick/RestaurantPick.csproj": {}
   },
   "projects": {
-    "/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/RestaurantPick.csproj": {
+    "/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerMich/RestaurantPicker9/RestaurantPick/RestaurantPick.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/RestaurantPick.csproj",
+        "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerMich/RestaurantPicker9/RestaurantPick/RestaurantPick.csproj",
         "projectName": "RestaurantPick",
-        "projectPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/RestaurantPick.csproj",
-        "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
-        "outputPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/RestaurantPick/obj/",
+        "projectPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerMich/RestaurantPicker9/RestaurantPick/RestaurantPick.csproj",
+        "packagesPath": "/Users/Angelica/.nuget/packages/",
+        "outputPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/RestaurantPickerMich/RestaurantPicker9/RestaurantPick/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
+          "/Users/Angelica/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

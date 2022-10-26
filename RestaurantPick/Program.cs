@@ -1,4 +1,9 @@
-﻿bool validNum;
+﻿//Peer reviewed by: Angelica Ayala
+//Date:10/25/22
+//Comment: Did great on recreating the assignment in VS code. Code works well and easy to read.
+
+
+bool validNum;
 int num;
 bool playAgain = true;
 
